@@ -5,7 +5,7 @@
 
 - :trophy: I have over **6 years experience in QA**
 
-- :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API) + Mobile** as a automation QA
+- :hammer_and_wrench: I worked on different projects: **Web, Mobile, Desktop** as a manual QA and **Web(UI+API) + Mobile** as a automation QA (SDET)
 
 - :keyboard: I have been doing automation and programming for about **4 years**
 
