@@ -19,6 +19,8 @@
 
 :globe_with_meridians: API Automation
 
+:iphone: Mobile Automation
+
 :rocket: Development of a test framework and preparation of modules from scratch
 
 <h3 align="left">My tech stack:</h3>
