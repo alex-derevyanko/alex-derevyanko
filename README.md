@@ -61,6 +61,11 @@
 
 _Thank you for your attention_
 ___
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexstark-spb&theme=great-gatsby&show_icons=true&locale=en&layout=normal" alt="alexstark-spb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexstark-spb&theme=great-gatsby&show_icons=true&locale=en" alt="alexstark-spb" /></p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-derevyanko&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alex-derevyanko&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alex-derevyanko&theme=github_dark" />
+</p>
